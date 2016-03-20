@@ -18,5 +18,9 @@ h2 {
 
 p {
 		font-family: "Courier New", monospace;
+#third {
+	color: red;
+	text-align: left
+}
 }
 
